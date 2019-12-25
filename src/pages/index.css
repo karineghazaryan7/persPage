@@ -1,0 +1,49 @@
+.first-page-section {
+    width: 100%;
+    background: #eef5f9;
+
+}
+
+.header-image-container {
+    padding: 0 20%;
+}
+
+.img {
+    height: 100vh !important;
+}
+
+.header-footer {
+    max-height: 275px;
+    width: 100%;
+    background-color: #bd9469;
+    margin-top: -10.28%;
+    z-index: 1;
+    position: absolute;
+    opacity: 0.8;
+}
+
+.header-footer > span {
+    color: white;
+    font-size: 3.8vw;
+    float: right;
+    padding: 0 22%;
+    text-align: right;
+    width: 70%;
+    line-height: 90%;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    opacity: 1 !important;
+}
+
+.second-page-section {
+    padding: 0 20%;
+    background: #eef5f9;
+    margin-top: 5%;
+}
+
+
+
+.grid-container {
+    display: grid;
+    
+}

@@ -1,0 +1,56 @@
+.about-page-section {
+    padding: 0 20%;
+    background: #bd946921;
+}
+
+.about-page-section > span {
+    max-height: 90px;
+    width: 35%;
+    background: #981919;
+    color: white;
+    position: relative;
+    display: block;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 3vw;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+    line-height: 3px;
+    line-height: 85px;
+    margin-top: 3rem;
+}
+
+.about-page-section > div {
+
+}
+.education-container {
+    display: flex;
+    justify-content: start;
+}
+
+.education-container-line {
+    margin-top: -10%;
+}
+
+.education-line {
+    border-left: thick solid #981919;
+    height: 120%;
+    margin-top: -10%;
+}
+
+.education-container-texts {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+
+.text1 {
+    margin-top: 10rem;
+}
+
+
+
+
